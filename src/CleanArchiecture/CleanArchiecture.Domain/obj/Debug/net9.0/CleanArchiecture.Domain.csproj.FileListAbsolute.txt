@@ -1,0 +1,11 @@
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\bin\Debug\net9.0\CleanArchiecture.Domain.deps.json
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\bin\Debug\net9.0\CleanArchiecture.Domain.dll
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\bin\Debug\net9.0\CleanArchiecture.Domain.pdb
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.AssemblyInfo.cs
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.dll
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\refint\CleanArchiecture.Domain.dll
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\CleanArchiecture.Domain.pdb
+C:\Users\ISP\Documents\Proyectos\domain-drive-design-net\src\CleanArchiecture\CleanArchiecture.Domain\obj\Debug\net9.0\ref\CleanArchiecture.Domain.dll
