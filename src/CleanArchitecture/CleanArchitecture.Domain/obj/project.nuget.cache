@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxRshCIKVGbN1MH+Gwupj0H+odLwF0pcOpB76wHNuD+/xZkaDV6x8Iw7p0XrGnv0k999poZFSraUT4o2z+heNQ==",
+  "success": true,
+  "projectFilePath": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javix\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
