@@ -2529,23 +2529,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\javix\\.nuget\\packages\\": {},
+    "C:\\Users\\ISP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.api\\CleanArchitecture.Api.csproj",
       "projectName": "CleanArchitecture.Api",
-      "projectPath": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
-      "packagesPath": "C:\\Users\\javix\\.nuget\\packages\\",
-      "outputPath": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Api\\obj\\",
+      "projectPath": "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.api\\CleanArchitecture.Api.csproj",
+      "packagesPath": "C:\\Users\\ISP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\javix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ISP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2554,18 +2554,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             },
-            "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
-              "projectPath": "C:\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
+            "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ISP\\Documents\\Proyectos\\domain-drive-design-net\\src\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
             }
           }
         }
@@ -2574,7 +2573,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -2624,7 +2629,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -2633,7 +2638,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchitecture.Api depends on Bogus (>= 34.0.0) but Bogus 34.0.0 was not found. An approximate best match of Bogus 34.0.1 was resolved.",
+      "message": "CleanArchitecture.Api depende de Bogus (>= 34.0.0), pero no se encontró Bogus 34.0.0. Bogus 34.0.1 se resolvió en su lugar.",
       "libraryId": "Bogus",
       "targetGraphs": [
         "net8.0"

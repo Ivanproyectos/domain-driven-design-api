@@ -441,7 +441,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0-rc.2.23479.6"
         },
         "runtime": {
-          "CleanArchitecture.Application.dll": {}
+          "CleanArchitecture.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchitecture.Domain/1.0.0": {
@@ -449,7 +452,10 @@
           "MediatR.Contracts": "2.0.1"
         },
         "runtime": {
-          "CleanArchitecture.Domain.dll": {}
+          "CleanArchitecture.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CleanArchitecture.Infrastructure/1.0.0": {
@@ -462,7 +468,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11"
         },
         "runtime": {
-          "CleanArchitecture.Infrastructure.dll": {}
+          "CleanArchitecture.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
